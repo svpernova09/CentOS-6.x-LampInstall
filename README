@@ -1,0 +1,6 @@
+Quick Shell script to install basic LAMP setup for localised development. 
+Should not be used for production. 
+
+I use this script to configure my vagrant development environments.
+
+Feel free to Fork but PLEASE remember to send pull requests!
