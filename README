@@ -1,4 +1,7 @@
-Quick Shell script to install basic LAMP setup for localised development. 
+# This project is depreciated. It is no longer maintained and should only be used for reference.
+
+
+Quick Shell script to install basic LAMP setup for localised development.
 Should not be used for production. 
 
 I use this script to configure my vagrant development environments.
